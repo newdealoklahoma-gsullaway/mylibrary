@@ -1,0 +1,29 @@
+# Node / JS
+node_modules/
+dist/
+build/
+.env
+.env.local
+.htaccess
+.git
+archieve*
+
+# PHP / Composer
+vendor/
+*.log
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Archives & Scripts
+deploy.sh
+site_archive.tar.gz
+site_achive.tar.gz
+
+# Media & Document Assets
+assets/projects
+assets/sources
+assets/img
+assets/cccpics
